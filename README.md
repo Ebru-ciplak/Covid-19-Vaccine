@@ -53,3 +53,7 @@ Thanks to vaccination, countries have relaxed socially and economically. While I
 
 -Edouard Mathieu-owid/covid-19-data. Github.
 `<link>` :<https://github.com/owid/covid-19-data>
+
+# Video
+`<link>` : <https://drive.google.com/file/d/11mDi_LV9-nlSrOoZVNhU9XNGUcfdyVJ9/view?usp=sharing>
+
